@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b55d4c76-93d2-4418-8021-8ac18e8305d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoIntegra_poo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfazgrafica/frmIniciarSesion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfazgrafica/frmMenuPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad1/Usuario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Interfazgrafica/frmIniciarSesion.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Interfazgrafica/frmMenuPrincipal.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2TlbEn4LaiGNiKm6Fxpp0aJTrH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/alejandrovalenciacastrillon/Downloads/ECOTURISTEA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="unidad1" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Imagenes" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="txtUbicacion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Imagenes" />
+      <recent name="$PROJECT_DIR$/src/TXT" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="unidad1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.frmMenuPrincipal">
+    <configuration name="VentanaImagen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfazgrafica.VentanaImagen1" />
+      <module name="ProyectoIntegra_poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfazgrafica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmIniciarSesion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfazgrafica.frmIniciarSesion" />
+      <module name="ProyectoIntegra_poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfazgrafica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmInicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad1.frmInicio" />
+      <module name="ProyectoIntegra_poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfazgrafica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmMenuPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfazgrafica.frmMenuPrincipal" />
+      <module name="ProyectoIntegra_poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfazgrafica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmRegistro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfazgrafica.frmRegistro" />
+      <module name="ProyectoIntegra_poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfazgrafica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.frmMenuPrincipal" />
+        <item itemvalue="Application.frmIniciarSesion" />
+        <item itemvalue="Application.frmRegistro" />
+        <item itemvalue="Application.frmInicio" />
+        <item itemvalue="Application.VentanaImagen1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55d4c76-93d2-4418-8021-8ac18e8305d0" name="Changes" comment="" />
+      <created>1691620510127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691620510127</updated>
+      <workItem from="1691620511503" duration="2474000" />
+      <workItem from="1691689662926" duration="1666000" />
+      <workItem from="1692118361940" duration="269000" />
+      <workItem from="1692227605986" duration="1439000" />
+      <workItem from="1692795523968" duration="56352000" />
+      <workItem from="1693441185248" duration="7719000" />
+      <workItem from="1693505188641" duration="1645000" />
+      <workItem from="1693880979032" duration="25370000" />
+      <workItem from="1696455833470" duration="8922000" />
+      <workItem from="1696526173620" duration="19403000" />
+      <workItem from="1696566543824" duration="28000" />
+      <workItem from="1696566578979" duration="626000" />
+      <workItem from="1696567214856" duration="13975000" />
+      <workItem from="1696629938196" duration="4000" />
+      <workItem from="1696727635218" duration="1345000" />
+      <workItem from="1696788935907" duration="1830000" />
+      <workItem from="1696797777686" duration="2586000" />
+      <workItem from="1696818296816" duration="58000" />
+      <workItem from="1696818802723" duration="10345000" />
+      <workItem from="1696878246083" duration="6769000" />
+      <workItem from="1696987004665" duration="7769000" />
+      <workItem from="1697124101259" duration="9000" />
+      <workItem from="1697124246996" duration="3000" />
+      <workItem from="1697124803758" duration="27000" />
+      <workItem from="1697124835225" duration="8000" />
+      <workItem from="1697124852016" duration="2000" />
+      <workItem from="1697124880440" duration="7000" />
+      <workItem from="1697124946204" duration="3000" />
+      <workItem from="1697127944836" duration="17471000" />
+      <workItem from="1697169932360" duration="1045000" />
+      <workItem from="1697405311580" duration="748000" />
+      <workItem from="1697406086359" duration="5701000" />
+      <workItem from="1697432693577" duration="3000" />
+      <workItem from="1697500468475" duration="1306000" />
+      <workItem from="1697509191006" duration="393000" />
+      <workItem from="1697509611593" duration="823000" />
+      <workItem from="1697510837925" duration="1519000" />
+      <workItem from="1697512446165" duration="1312000" />
+      <workItem from="1697574476924" duration="1574000" />
+      <workItem from="1697584418247" duration="309000" />
+      <workItem from="1697584988797" duration="529000" />
+      <workItem from="1697585654032" duration="121000" />
+      <workItem from="1697587820899" duration="33000" />
+      <workItem from="1697592708924" duration="2231000" />
+      <workItem from="1697676623340" duration="561000" />
+      <workItem from="1697678315336" duration="690000" />
+      <workItem from="1697735764156" duration="3191000" />
+      <workItem from="1697739457402" duration="9544000" />
+      <workItem from="1697769526590" duration="45000" />
+      <workItem from="1697769664974" duration="200000" />
+      <workItem from="1697769875639" duration="2941000" />
+      <workItem from="1697821403000" duration="1397000" />
+      <workItem from="1697952559847" duration="128000" />
+      <workItem from="1697952892813" duration="13000" />
+      <workItem from="1698010759649" duration="5549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProyectoIntegra_poo$frmInicio.ic" NAME="frmInicio Coverage Results" MODIFIED="1692973091832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>unidad1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProyectoIntegra_poo$fmrInicio.ic" NAME="fmrInicio Coverage Results" MODIFIED="1692973235789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
+    </SUITE>
+  </component>
+</project>
