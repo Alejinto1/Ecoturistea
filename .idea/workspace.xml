@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b55d4c76-93d2-4418-8021-8ac18e8305d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoIntegra_poo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/image 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfazgrafica/frmIniciarSesion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfazgrafica/frmMenuPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ventanas/VentanaImagen4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unidad1/Usuario.java" afterDir="false" />
-    </list>
+    <list default="true" id="b55d4c76-93d2-4418-8021-8ac18e8305d0" name="Changes" comment="Codigo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +59,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -241,8 +220,17 @@
       <workItem from="1697821403000" duration="1397000" />
       <workItem from="1697952559847" duration="128000" />
       <workItem from="1697952892813" duration="13000" />
-      <workItem from="1698010759649" duration="5549000" />
+      <workItem from="1698010759649" duration="5862000" />
     </task>
+    <task id="LOCAL-00001" summary="Codigo">
+      <option name="closed" value="true" />
+      <created>1698076075810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698076075810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +246,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ProyectoIntegra_poo$frmInicio.ic" NAME="frmInicio Coverage Results" MODIFIED="1692973091832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
