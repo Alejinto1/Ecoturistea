@@ -16,7 +16,7 @@ public class frmIniciarSesion extends JFrame implements ActionListener {
     static frmIniciarSesion frmInicio;
     static JLabel iniciarSesion, usuario, Contrasena;
     static JTextArea Usuario;
-    static JButton Iniciar, Registrate,RecordarContra,AgregarLugar;
+    static JButton Iniciar, Registrate,RecordarContra;
     static JPasswordField contrasena;
     static frmIniciarSesion regresar;
     static frmIniciarSesion regresar2;
